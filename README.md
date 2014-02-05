@@ -4,7 +4,7 @@ Exercises for Secret Lab's iOS Developer Workshops: http://www.secretlab.com.au/
 
 ## License
 
-Diary App is licensed under the MIT license.
+This code is licensed under the MIT license.
 
 Copyright (c) 2014 Secret Lab, Pty. Ltd.
 
