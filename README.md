@@ -1,4 +1,4 @@
-# Secret Lab iOS Workshop Material for 2014
+# iOS Workshop Material for 2014
 
 Exercises for Secret Lab's iOS Developer Workshops: http://www.secretlab.com.au/training/
 
