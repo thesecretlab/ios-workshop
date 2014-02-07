@@ -25,7 +25,8 @@ Inside the @implementation block of CustomClass.m add the following code
 
     -(id)init
 	{
-		if ([super init])
+		self = [super init];
+		if (self !=nil)
 			NSLog(@“custom initialisation goes here”);
 		return self;
 	}
